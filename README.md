@@ -10,7 +10,7 @@
 
 1. Una vez creada la base de datos, abrir el proyecto en algún IDE.
 2. Colocar la contraseña y usuario en el `application.properties`.
-3. Ejecutar el proyecto desde el archivo `PruebaApplication.java`. Se ejecutará en el puerto por defecto (8080)
+3. Ejecutar el proyecto desde el archivo `PruebaApplication.java`. Se ejecutará en el puerto por defecto (8080). Procurar ejecutar el backend antes que el front.
 
 ## Notas
 - Tiene habilitado CORS para que se puedan hacer peticiones desde otro localhost en el puerto 8081.
